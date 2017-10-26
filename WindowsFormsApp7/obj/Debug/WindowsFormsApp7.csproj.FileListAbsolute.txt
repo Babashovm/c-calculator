@@ -1,0 +1,9 @@
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.Cache
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojResolveAssemblyReference.cache
